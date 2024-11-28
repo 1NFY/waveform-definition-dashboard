@@ -1,4 +1,4 @@
-#Waveform Definition Dashboard
+# Waveform Definition Dashboard
 
 In today’s world, every company that provides AI solutions for the creative fields
 are providing solutions for the complex tasks but no service provides the education
